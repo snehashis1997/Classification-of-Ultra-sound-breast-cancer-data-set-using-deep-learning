@@ -1,0 +1,2 @@
+# Classification-of-Ultra-sound-breast-cancer-data-set-using-deep-learning-which-downloaded-from-kaggl
+This data set is downloaded from kaggle. Ultra sound images are.It is a binary classification using Deep learning CNN and our target metric is ROC-AUC score. AUC represents the probability that a random positive (green) example is positioned to the right of a random negative (red) example.My present ROC score is about 0.75.I try to further optimize it
